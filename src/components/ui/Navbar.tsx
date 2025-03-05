@@ -16,9 +16,9 @@ export default function Navbar() {
         Home
         </a>
     </Link>
-    <Link href="/about" legacyBehavior>
+    <Link href="/service" legacyBehavior>
         <a className="text-white border-b-2 border-transparent hover:border-white transition-colors">
-        Sobre Nosotros
+        Servicios
         </a>
     </Link>
     <Link href="/contact" legacyBehavior>
