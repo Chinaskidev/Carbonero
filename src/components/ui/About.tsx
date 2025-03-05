@@ -35,7 +35,7 @@ export default function About() {
             Torogoz 3
           </h3>
           <Image
-            src="/images/imagen2.png"
+            src="/torogozgris.png"
             alt="GNOSS Semantic Application Server"
             width={600}
             height={400}
